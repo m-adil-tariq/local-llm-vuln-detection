@@ -13,6 +13,4 @@ This project evaluates whether model choice and prompting strategy affect how we
 - `phi3:mini` is more balanced on precision/recall but scores 0% CWE-match accuracy, driven by outright fabrication of CWE identifiers.
 - Prompting strategy has a small, model-dependent effect rather than a uniform improvement.
 
-Full write-up: [`report/LLM_Vulnerability_Detection_Report.pdf`](./report)
-
-## Repository Structure
+Full write-up: [`report/LLM_Vulnerability_Detection_Report.pdf`](./report.pdf)
