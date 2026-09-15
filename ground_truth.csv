@@ -1,0 +1,25 @@
+snippet_id,filepath,cwe,is_vulnerable,category_name
+s001,snippets/deserialize_bad_1.py,CWE-502,1,Insecure Deserialization
+s002,snippets/deserialize_bad_2.py,CWE-502,1,Insecure Deserialization
+s003,snippets/deserialize_good_1.py,,0,None
+s004,snippets/deserialize_good_2.py,,0,None
+s005,snippets/hardcoded_bad_1.py,CWE-798,1,Hardcoded Credentials
+s006,snippets/hardcoded_bad_2.py,CWE-798,1,Hardcoded Credentials
+s007,snippets/hardcoded_good_1.py,,0,None
+s008,snippets/hardcoded_good_2.py,,0,None
+s009,snippets/pathtraversal_bad_1.py,CWE-22,1,Path Traversal
+s010,snippets/pathtraversal_bad_2.py,CWE-22,1,Path Traversal
+s011,snippets/pathtraversal_good_1.py,,0,None
+s012,snippets/pathtraversal_good_2.py,,0,None
+s013,snippets/sqli_bad_1.py,CWE-89,1,SQL Injection
+s014,snippets/sqli_bad_2.py,CWE-89,1,SQL Injection
+s015,snippets/sqli_good_1.py,,0,None
+s016,snippets/sqli_good_2.py,,0,None
+s017,snippets/xss_bad_1.py,CWE-79,1,XSS
+s018,snippets/xss_bad_2.py,CWE-79,1,XSS
+s019,snippets/xss_good_1.py,,0,None
+s020,snippets/xss_good_2.py,,0,None
+s021,snippets/xxe_bad_1.py,CWE-611,1,XXE
+s022,snippets/xxe_bad_2.py,CWE-611,1,XXE
+s023,snippets/xxe_good_1.py,,0,None
+s024,snippets/xxe_good_2.py,,0,None
